@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mlgja\\Desktop\\Programowanie3\\Workshop\\01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFCDC7-EBBF-46AF-988E-BF146125E71F}|myClassLibrary\\myClassLibrary.csproj|c:\\users\\mlgja\\desktop\\programowanie3\\workshop\\01\\myclasslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECFCDC7-EBBF-46AF-988E-BF146125E71F}|myClassLibrary\\myClassLibrary.csproj|solutionrelative:myclasslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D827D261-1A8B-48F0-849E-8F8C05801356}|lab01\\lab01.csproj|c:\\users\\mlgja\\desktop\\programowanie3\\workshop\\01\\lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D827D261-1A8B-48F0-849E-8F8C05801356}|lab01\\lab01.csproj|solutionrelative:lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mlgja\\Desktop\\Programowanie3\\Workshop\\01\\lab01\\Program.cs",
+              "RelativeDocumentMoniker": "lab01\\Program.cs",
+              "ToolTip": "C:\\Users\\mlgja\\Desktop\\Programowanie3\\Workshop\\01\\lab01\\Program.cs",
+              "RelativeToolTip": "lab01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:26:59.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mlgja\\Desktop\\Programowanie3\\Workshop\\01\\myClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "myClassLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\mlgja\\Desktop\\Programowanie3\\Workshop\\01\\myClassLibrary\\Class1.cs",
+              "RelativeToolTip": "myClassLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:26:08.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
